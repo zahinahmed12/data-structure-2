@@ -1,0 +1,16 @@
+MaxFlow: 23
+Edges of mincut
+1 - 3
+4 - 3
+4 - 5
+Flow along each edge: 
+0 - 1 flow= 12
+0 - 2 flow= 11
+1 - 2 flow= 0
+1 - 3 flow= 12
+2 - 1 flow= 0
+2 - 4 flow= 11
+3 - 2 flow= 0
+3 - 5 flow= 19
+4 - 3 flow= 7
+4 - 5 flow= 4
